@@ -33,12 +33,6 @@
             <version>5.8.1</version>
             <scope>compile</scope>
         </dependency>
-        <dependency>
-            <groupId>ru.netology</groupId>
-            <artifactId>bonus-calc-test</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>test</scope>
-        </dependency>
     </dependencies>
     <build>
         <plugins>

@@ -22,8 +22,8 @@ class SqrServiceTest {
     void shouldSqrNotInside() {
         SqrService service = new SqrService();
         int min = 100;
-        int max = 200;
-        int expected = 5;
+        int max = 300;
+        int expected = 8;
 
         long actual = service.service(min, max);
 
